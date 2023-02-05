@@ -1,2 +1,2 @@
 # Competitive-Programming
-All the code from CodeChef/CodeForces and other online websites.
+A Repository which will contain templates, snippets, codes, etc needed for cp
